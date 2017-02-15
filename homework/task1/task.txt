@@ -1,0 +1,5 @@
+http://www.machinelearning.ru/wiki/index.php?title=%D0%97%D0%B0%D0%B4%D0%B0%D1%87%D0%B8_%D0%BF%D1%80%D0%BE%D0%B1%D0%BD%D0%BE%D0%B3%D0%BE_%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F
+задача 4
+Классификация ядовитости грибов по основным признакам. Построить модель классификации на основе сети радиальных базисных функций. В качестве функции ошибки использовать метрику HEOM.
+
+http://www.machinelearning.ru/wiki/index.php?title=RBF - сеть радиальных функций
