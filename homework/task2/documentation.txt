@@ -1,0 +1,10 @@
+Task: predict graip sort that wine is made from by number of continious characteristics via using KNN method. Compare results for different metrics and different numbers of nearest neighbours and show plot on the graph.
+
+Metrics, that were used: 
+	- euclidian (summ of squares),
+	- manhattan (summ of modules),
+	- chebyshev (maximum of modules).
+
+Different parameters of the algorithm were compared by accuracy (fraction of true classes elements).
+ 
+N is a variable that defines maximum number of nearest neighbours for evaluation.  
